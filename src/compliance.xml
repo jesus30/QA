@@ -4,18 +4,18 @@
 	<Content type="html">
 		<![CDATA[	
 			<meta http-equiv="content-type" content="text/html; charset=utf-8"/>
-			<link href="https://rawgit.com/marcobbva/stmo/master/lib/bootstrap.css" rel="stylesheet">
-			<link href="https://rawgit.com/marcobbva/stmo/master/lib/jquery.editable-select.css" rel="stylesheet">
-			<link href="https://rawgit.com/marcobbva/stmo/master/lib/fixedheadertable.css" rel="stylesheet">
-			<link href="https://rawgit.com/marcobbva/stmo/master/lib/colorbox.css" rel="stylesheet">
-			<link href="https://rawgit.com/marcobbva/stmo/master/lib/common_styles.css" rel="stylesheet">
-			<link href="https://rawgit.com/marcobbva/stmo/master/lib/estilo_gral.css" rel="stylesheet">
+			<link href="https://rawgit.com/jesus30/QA/master/lib/bootstrap.css" rel="stylesheet">
+			<link href="https://rawgit.com/jesus30/QA/master/lib/jquery.editable-select.css" rel="stylesheet">
+			<link href="https://rawgit.com/jesus30/QA/master/lib/fixedheadertable.css" rel="stylesheet">
+			<link href="https://rawgit.com/jesus30/QA/master/lib/colorbox.css" rel="stylesheet">
+			<link href="https://rawgit.com/jesus30/QA/master/lib/common_styles.css" rel="stylesheet">
+			<link href="https://rawgit.com/jesus30/QA/master/lib/estilo_gral.css" rel="stylesheet">
 			<script type="text/javascript" src="https://www.google.com/jsapi"></script>
-			<script src="https://rawgit.com/marcobbva/stmo/master/lib/jquery-1.10.2.min.js"></script>
-			<script src="https://rawgit.com/marcobbva/stmo/master/lib/jquery.editable-select.js"></script>
-			<script src="https://rawgit.com/marcobbva/stmo/master/lib/jquery.fixedheadertable.js"></script>
-			<script src="https://rawgit.com/marcobbva/stmo/master/lib/jquery.colorbox.js"></script>
-			<script src="https://rawgit.com/marcobbva/stmo/master/src/compliance.js"></script>
+			<script src="https://rawgit.com/jesus30/QA/master/lib/jquery-1.10.2.min.js"></script>
+			<script src="https://rawgit.com/jesus30/QA/master/lib/jquery.editable-select.js"></script>
+			<script src="https://rawgit.com/jesus30/QA/master/lib/jquery.fixedheadertable.js"></script>
+			<script src="https://rawgit.com/jesus30/QA/master/lib/jquery.colorbox.js"></script>
+			<script src="https://rawgit.com/jesus30/QA/master/src/compliance.js"></script>
 			
 			<div id="dashboard">
 				
@@ -30,7 +30,7 @@
 						<td></td>
 						<td></td>
 						<td style="text-align:right;padding-right: 5px;">
-							<a href="#" onclick="limpiar();"><img src="https://raw.githubusercontent.com/marcobbva/stmo/master/img/limpiar.png" height="40" width="40" title="Limpiar Filtros"></a>
+							<a href="#" onclick="limpiar();"><img src="https://raw.githubusercontent.com/jesus30/QA/master/img/limpiar.png" height="40" width="40" title="Limpiar Filtros"></a>
 						</td>
 					</tr>
 					<tr>
